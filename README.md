@@ -1,2 +1,2 @@
 # test_case
-Telkomsel test case
+notes : kindly download the notebook if it not shown in the github preview
